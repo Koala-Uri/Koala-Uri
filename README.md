@@ -16,13 +16,12 @@ solutions.
 
 I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.<br><br>
 ❤ Have over 10 years of professional development experience.<br>
+❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.<br>
+❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.<br><br><br>
 ❤ Experience in<br> 
 - React, Redux | Vue, Vuex | Angular | Node | Express<br>
 - PHP | Laravel | CodeIgniter | Symfony<br>
-- Python | Django | Scrapy | Selenium<br><br><br>
-❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.<br>
-❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.<br><br><br>
-
+- Python | Django | Scrapy | Selenium<br><br>
 Industries I serve:<br>
 
 - Medical<br>
