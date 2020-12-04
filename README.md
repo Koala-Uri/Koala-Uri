@@ -16,7 +16,7 @@ solutions.
 
 I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.<br><br>
 ❤ Have over 10 years of professional development experience.<br>
-❤ Experience in:<br> 
+❤ Experience in<br> 
 - React, Redux | Vue, Vuex | Angular | Node | Express<br>
 - PHP | Laravel | CodeIgniter | Symfony<br>
 - Python | Django | Scrapy | Selenium<br>
