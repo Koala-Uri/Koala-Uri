@@ -14,30 +14,30 @@ Regardless of the size, complexity, and scope of your project, we’ll create di
 Whether it's complex eCommerce websites, portfolios, or general business sites, our creative thinkers will ensure that you’re getting responsive and accessible   
 solutions.
 
-I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.
+I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.<br><br>
 ❤ Have over 10 years of professional development experience.
-❤ Experience in 
-     --- React, Redux | Vue, Vuex | Angular | Node | Express
-     --- PHP | Laravel | CodeIgniter | Symfony
-     --- Python | Django | Scrapy | Selenium
+❤ Experience in<br> 
+     --- React, Redux | Vue, Vuex | Angular | Node | Express<br>
+     --- PHP | Laravel | CodeIgniter | Symfony<br>
+     --- Python | Django | Scrapy | Selenium<br><br>
 
-❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.
-❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.
+❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.<br>
+❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.<br><br><br>
 
-Industries I serve:
+Industries I serve:<br>
 
-- Medical
-- Health
-- Financial
-- Trading
-- Manufacturing
-- Entertainment
-- Education
-- Cryptocurrency and Blockchain
-- Photography / Videography
-- Fitness
-- Many more
-I do not require upfront payments. I aim to please clients and have never had a problem getting paid. <br><br>
+- Medical<br>
+- Health<br>
+- Financial<br>
+- Trading<br>
+- Manufacturing<br>
+- Entertainment<br>
+- Education<br>
+- Cryptocurrency and Blockchain<br>
+- Photography / Videography<br>
+- Fitness<br>
+- Many more<br><br>
+I aim to please clients and have never had a problem getting paid. <br><br>
 [ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]
 
 ##### My mission
