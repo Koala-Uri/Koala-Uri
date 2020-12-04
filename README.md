@@ -1,17 +1,42 @@
-## 👋 Let your dreams come true !
+👋 How long have you been meeting code master?
 
 
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( web, mobile developer ).<br>
+- NickName: Koala ( web&mobile developer ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
-- Articulate and professional communication skills, including formal presentations and technical documentation.<br>
-Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
-As a competent and experienced developer with a BBA degree, <br>
-I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
-Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
+Your website is the most crucial component of your marketing strategy.  
+I do not just create websites – we transform them into powerful communication platforms that drive online sales and deliver the results you care about. 
+We do this by delivering clean, clear, and customized websites that create lasting impressions for your users, both visually and interactively.
+
+Regardless of the size, complexity, and scope of your project, we’ll create digital solutions to support your business growth and development. 
+Whether it's complex eCommerce websites, portfolios, or general business sites, our creative thinkers will ensure that you’re getting responsive and accessible solutions.
+
+I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.
+❤ Have over 10 years of professional development experience.
+❤ Experience in 
+     --- React, Redux | Vue, Vuex | Angular | Node | Express
+     --- PHP | Laravel | CodeIgniter | Symfony
+     --- Python | Django | Scrapy | Selenium
+
+❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.
+❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.
+
+Industries I serve:
+
+- Medical
+- Health
+- Financial
+- Trading
+- Manufacturing
+- Entertainment
+- Education
+- Cryptocurrency and Blockchain
+- Photography / Videography
+- Fitness
+- Many more
+I do not require upfront payments. I aim to please clients and have never had a problem getting paid. <br><br>
 [ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]
 
 ##### My mission
