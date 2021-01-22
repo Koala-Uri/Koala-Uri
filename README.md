@@ -1,4 +1,5 @@
-👋 How long have you been meeting code master?
+👋  MySkype:live:.cid.ed7754f7dbcf28fe Please contact me via SKYPE Kirkland
+How long have you been meeting code master?
 
 
 
