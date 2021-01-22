@@ -1,8 +1,6 @@
-👋  MySkype:live:.cid.ed7754f7dbcf28fe Please contact me via SKYPE Kirkland
+👋  MySkype:live:.cid.ed7754f7dbcf28fe Please contact me via SKYPE Kirkland<br>
+
 How long have you been meeting code master?
-
-
-
 Talking about Personal Stuffs:
 
 NickName: Koala ( web&mobile developer ).<br>
