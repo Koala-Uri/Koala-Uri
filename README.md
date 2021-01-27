@@ -1,4 +1,4 @@
-👋 <h1> MySkype:live:.cid.ed7754f7dbcf28fe Kirkland, Please contact me via SKYPE </h1><br>
+👋 SUperior Web&Mobile developer
 
 How long have you been meeting code master?
 Talking about Personal Stuffs:
