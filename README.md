@@ -2,8 +2,6 @@
 
 How long have you been meeting code master?
 Talking about Personal Stuffs:
-
-NickName: Koala ( web&mobile developer ).<br>
  
 Your website is the most crucial component of your marketing strategy.  
 I do not just create websites – we transform them into powerful communication platforms that drive online sales and deliver the results you care about. 
@@ -14,7 +12,7 @@ Whether it's complex eCommerce websites, portfolios, or general business sites, 
 solutions.
 
 I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.<br><br>
-❤ Have over 10 years of professional development experience.<br>
+❤ Have over 7 years of professional development experience.<br>
 ❤ Experience in<br> 
   --- React, Redux | Vue, Vuex | Angular | Node | Express<br>
   --- PHP | Laravel | CodeIgniter | Symfony<br>
