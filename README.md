@@ -1,4 +1,4 @@
-👋 Superior Web&Mobile developer
+👍 Superior Web&Mobile developer 👍
 
 How long have you been meeting code master?
 Talking about Personal Stuffs:
