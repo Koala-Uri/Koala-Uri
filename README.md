@@ -1,5 +1,7 @@
 👍 Superior Web&Mobile developer 👍
-
+<a href="https://app.daily.dev/Koala-Dev-Dream">
+ <img align="right" src="/devcard.svg" alt="DevCard" width="270">
+</a>
 How long have you been meeting code master?
 Talking about Personal Stuffs:
  
