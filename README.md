@@ -88,3 +88,7 @@ If you have any questions, you are welcome anytime.
 <!--
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165"></p>-->
+    
+<a href="https://metrics.lecoq.io/embed?user=Koala-Dev-Dream">
+   <img src="/github-metrics.svg" alt="Metrics" with="100%">
+</a>
