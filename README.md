@@ -1,8 +1,10 @@
-👍 Superior Web&Mobile developer 👍
+<a href="https://metrics.lecoq.io/embed?user=Koala-Dev-Dream">
+   <img src="/github-metrics.svg" alt="Metrics" with="100%">
+</a>
+👍 Senior Web, Mobile developer 👍
 <a href="https://app.daily.dev/Koala-Dev-Dream">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
-<h2>Senior WEb, Mobile Experience</h2>
 I'm a highly skilled full-stack engineer with 7 years of solid experience in JavaScript, PHP.
 
 Specialize in Responsive web and Mobile development for startups and small to enterprise-level businesses. Ideally, work with React, React Native, Vue, Angular, Node, Express, Mongo DB.
@@ -24,7 +26,3 @@ Thanks.
 <!--
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165"></p>-->
-    
-<a href="https://metrics.lecoq.io/embed?user=Koala-Dev-Dream">
-   <img src="/github-metrics.svg" alt="Metrics" with="100%">
-</a>
