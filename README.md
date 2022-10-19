@@ -2,47 +2,24 @@
 <a href="https://app.daily.dev/Koala-Dev-Dream">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
-How long have you been meeting code master?
-Talking about Personal Stuffs:
- 
-Your website is the most crucial component of your marketing strategy.  
-I do not just create websites – we transform them into powerful communication platforms that drive online sales and deliver the results you care about. 
-We do this by delivering clean, clear, and customized websites that create lasting impressions for your users, both visually and interactively.
+<h2>Senior WEb, Mobile Experience</h2>
+I'm a highly skilled full-stack engineer with 7 years of solid experience in JavaScript, PHP.
 
-Regardless of the size, complexity, and scope of your project, we’ll create digital solutions to support your business growth and development. 
-Whether it's complex eCommerce websites, portfolios, or general business sites, our creative thinkers will ensure that you’re getting responsive and accessible   
-solutions.
+Specialize in Responsive web and Mobile development for startups and small to enterprise-level businesses. Ideally, work with React, React Native, Vue, Angular, Node, Express, Mongo DB.
 
-I am trying to build long-term business relationships by helping its clients leverage technology to scale their business to the next level.<br><br>
-❤ Have over 7 years of professional development experience.<br>
-❤ Experience in<br> 
-  --- React, Redux | Vue, Vuex | Angular | Node | Express<br>
-  --- PHP | Laravel | CodeIgniter | Symfony<br>
-  --- Python | Django | Scrapy | Selenium<br><br>
-❤ Have worked on various business apps that had backend databases, workflow features, reports, and various other functionality.<br>
-❤ Have worked on various scientific apps that performed complex analysis and often interfaced with a proprietary instrument.<br><br><br>
-Industries I serve:<br>
+My passion is creating things users will love, and engaging with people to improve the products and I always make sure to bring you upon successive results of highly and creatively qualified results before the project deadline.
 
-- Medical<br>
-- Health<br>
-- Financial<br>
-- Trading<br>
-- Manufacturing<br>
-- Entertainment<br>
-- Education<br>
-- Cryptocurrency and Blockchain<br>
-- Photography / Videography<br>
-- Fitness<br>
-- Many more<br><br>
-I aim to please clients and have never had a problem getting paid. <br><br>
-[ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]
+My areas of expertise include:
 
-##### My mission
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
+Medical, Health, Financial, Trading, Manufacturing, Entertainment, Education, Cryptocurrency and Blockchain Photography / Videography, Fitness Many more
 
+My mission
+[ Perfect result | Best Quality | On-time Delivery ]
+[ App architecture | Clean code | Product design | Continuous integration | Task prioritization | Automatic deployment | Teamwork ]
 
-If you have any questions, you are welcome anytime.
+I would enjoy an opportunity to chat about your upcoming project and share my most similar achievements with you. Feel free to contact me whenever you need my hands.
+
+Thanks.
 
 <!--
 <p align="left">
