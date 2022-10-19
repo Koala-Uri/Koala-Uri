@@ -1,7 +1,8 @@
 <a href="https://metrics.lecoq.io/embed?user=Koala-Dev-Dream">
    <img src="/github-metrics.svg" alt="Metrics" with="100%">
 </a><br/>
-👍 Senior Web, Mobile developer 👍<br/>
+<h2> 👍 Senior Web, Mobile developer 👍 </h2>
+<br/><br/>
 <a href="https://app.daily.dev/Koala-Dev-Dream">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
