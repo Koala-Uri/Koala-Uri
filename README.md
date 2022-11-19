@@ -5,7 +5,7 @@
 ## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koalah86@gmail.com)
-[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/EWToypu49z4H))
+[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/EWToypu49z4H)
 <!-- [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia_Butenko)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/963799901332963328) -->
 
