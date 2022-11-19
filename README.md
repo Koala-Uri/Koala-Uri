@@ -1,4 +1,14 @@
-<h2> 👍 Senior Web, Mobile developer 👍 </h2>
+<p align="center">
+  <a href="https://github.com/tDev0809"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+## Contact me
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.butenko89@gmail.com)
+[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/vb1lIjfgqRjl)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia_Butenko)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/963799901332963328)
+
 <br/>
 <a href="https://app.daily.dev/Koala-Dev-Dream">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
