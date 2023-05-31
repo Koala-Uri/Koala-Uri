@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/awsome-dev-journey"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20JavaScript%20developer;Web%20and%20Mobile%20Expert;7%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/awsome-dev-journey"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20JavaScript%20developer;Web%20and%20Mobile%20Expert;4%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <br/>
 <a href="https://app.daily.dev/Koala-Dev-Dream">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
-I'm a highly skilled full-stack engineer with 7 years of solid experience in JavaScript, PHP.
+I'm a highly skilled full-stack engineer with 4 years of solid experience in JavaScript, PHP.
 
 Specialize in Responsive web and Mobile development for startups and small to enterprise-level businesses. Ideally, work with React, React Native, Vue, Angular, Node, Express, Mongo DB.
 
