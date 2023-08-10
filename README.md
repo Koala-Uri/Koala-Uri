@@ -23,7 +23,3 @@ My mission
 I would enjoy an opportunity to chat about your upcoming project and share my most similar achievements with you. Feel free to contact me whenever you need my hands.
 
 Thanks.
-
-<a href="https://metrics.lecoq.io/embed?user=Koala-Dev-Dream">
-   <img src="/github-metrics.svg" alt="Metrics" with="100%">
-</a>
