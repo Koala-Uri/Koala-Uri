@@ -8,11 +8,11 @@
 
 ## 💎Senior JavaScript Full-Stack developer💎
 
-- 😄 I've already mastered MERN Stack, Next.js and React Native.
-- 😊 I'm also an expert in WordPress and Shopify.
-- 🔭 I’m currently working on Artificial Intelligence.
-- 🌱 I’m currently learning deep learning and NLP.
-- 🔔 Ask me anything about web development.
+- 😄 5+ years of strong experience in React/Next/Gatsby/Vue/Angular.
+- 😊 Responsive and Pixel-Perfect UI using JS frameworks.
+- 🔭 API design, development and integration using Node.js/Express.js/Fast API.
+- 🌱 Third-party service integration including payment gateway.
+- 🔔 High performance using SSR, code optimization.
 
 <div align="center">
 <h1> Languages and Tools </h1>
