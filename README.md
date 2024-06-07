@@ -12,7 +12,7 @@
 - 😊 Responsive and Pixel-Perfect UI using JS frameworks.
 - 🔭 API design, development and integration using Node.js/Express.js/Fast API.
 - 🌱 Third-party service integration including payment gateway.
-- 🔔 High performance using SSR, code optimization.
+- 🔔 High performance using SSR, code optimisation.
 
 <div align="center">
 <h1> Languages and Tools </h1>
